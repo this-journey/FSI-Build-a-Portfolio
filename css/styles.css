@@ -1,3 +1,5 @@
 div {
-        background: lightgray
+        background: lightgray;
+        text-align: center;
+        color: darkcyan;
 }

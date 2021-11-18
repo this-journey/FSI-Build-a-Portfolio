@@ -1,5 +1,12 @@
-div {
-        background: lightgray;
+.p {
+        background: black;
         text-align: center;
-        color: darkcyan;
+        color: lightgray;
+}
+.h1 {
+        background-color: black;
+        text-align: center;
+        color: white;
+        size: 24px;
+        border-radius: 10px;
 }
